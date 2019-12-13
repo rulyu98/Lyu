@@ -1,0 +1,11 @@
+A;milk tea;3.50;
+B;taro milk tea;3.50;
+C;thai tea;3.50;
+D;almond milk tea;2.75;
+E;chocolate milk tea;3.50;
+F;straberry milk tea;3.75;
+G;Hong Kong milk tea;4.25;
+H;sea salt milk tea;4.00;
+I;jasmine milk tea;3.00;
+J;ice cream cone;2.75;
+K;egg tart;3.50;
